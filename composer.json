@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Izion/amazon-alexa-php"
+        }
+    ],
+    "require": {
+        "jakubsuchy/amazon-alexa-php": "dev-master"
+    }
+}
